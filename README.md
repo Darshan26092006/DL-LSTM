@@ -263,11 +263,10 @@ else:
 
 ### OUTPUT
 ## Loss Vs Epoch Plot
-
-<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/d665c79e-cd9d-4091-93b7-218f1ae79257" />
+<img width="725" height="483" alt="image" src="https://github.com/user-attachments/assets/b060f23e-da3a-454f-8384-06d00661b338" />
 
 ### Sample Text Prediction
-<img width="439" height="499" alt="image" src="https://github.com/user-attachments/assets/a2a65810-29f9-4d19-bb1e-79042c78b5ac" />
+<img width="468" height="398" alt="image" src="https://github.com/user-attachments/assets/b1346013-d24c-45fc-9326-57dca3790c5f" />
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text has been developed successfully.
